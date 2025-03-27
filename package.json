@@ -2,6 +2,7 @@
   "name": "depfix",
   "version": "1.0.0",
   "description": "A tool to check for missing dependencies and install the existing version",
+  "repository": "https://github.com/ericrav/depfix",
   "main": "index.js",
   "bin": "index.js",
   "type": "commonjs",
