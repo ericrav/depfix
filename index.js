@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const depcheck = require('depcheck');
 const resolvePackagePath = require('resolve-package-path');
 
